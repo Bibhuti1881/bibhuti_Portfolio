@@ -4,7 +4,7 @@ A fully responsive personal portfolio website built with
 HTML, CSS and JavaScript.
 
 ## 📸 Preview
-![Portfolio Preview](home page.jpg)
+![Portfolio Preview](home%20page.jpg)
 
 ## ✨ Features
 - Fully responsive — mobile, tablet and desktop
